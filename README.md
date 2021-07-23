@@ -7,7 +7,7 @@ This is the home page of Horiseon Social Solution Services, Inc. The page needed
 
 - The page had a lot of redundant code that needed to be fixed.
 - I decided to work on this project to improve my html and css skills.
-- Now that the page is cleaned up it should function the same while being easeier for seach engiens to find.
+- Now that the page is cleaned up it should function the same while being easeier for seach engines to find.
 - I learned that it is easy to get messy if you don't stay orginized.
 
 ## Usage
