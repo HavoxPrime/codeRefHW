@@ -3,7 +3,7 @@
 ## Description
 
 This is the home page of Horiseon Social Solution Services, Inc. The page needed to be refactored.
-![Image of home page](.\Develop\assets\images\horiseon-home-page.png)
+![Image of home page](.\assets\images\horiseon-home-page.png)
 
 - The page had a lot of redundant code that needed to be fixed.
 - I decided to work on this project to improve my html and css skills.
